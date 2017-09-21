@@ -1,0 +1,287 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kjp.view.fragment.ProfileFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Status"
+        android:id="@+id/status"
+        android:gravity="center"/>
+
+    <TableLayout
+        android:layout_below="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow
+            android:background="#607D8B"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/tv_message_display"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Data Siswa"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"/>
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_nisn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_nisn"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/nisn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_nisn" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_nokk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_no_kk"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/nokk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_no_kk" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_nama"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_nama_lengkap"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/nama"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_nama_lengkap" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_jk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_jk"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/jk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_jk" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_tempat_lahir"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_tempat_lahir"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/tempat_lahir"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_tempat_lahir" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_tanggal_lahir"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_tanggal_lahir"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/tanggal_lahir"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_tanggal_lahir" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_alamat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_alamat"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/alamat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_alamat" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_provinsi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_provinsi"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/provinsi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_provinsi" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_kota"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_kota"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/kota"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_kota" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_kecamatan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_kecamatan"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/kecamatan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_kecamatan" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_kelurahan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_kelurahan"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/kelurahan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_kelurahan" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_pendidikan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_pendidikan"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/pendidikan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_pendidikan" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_kelas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_kelas"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/kelas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_kelas" />
+        </TableRow>
+
+        <TableRow
+            android:background="#ECEFF1"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/title_agama"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_agama"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/agama"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/hint_agama" />
+        </TableRow>
+
+    </TableLayout>
+
+</RelativeLayout>

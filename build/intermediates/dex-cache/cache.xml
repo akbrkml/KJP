@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/akbar/.android/build-cache/07029305cdf29197bbbd58e7583b74e94ae31651/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/pre-dexed/release/classes_ba93f82cbeb1d1f92b4b5dca3a8079fd1f715a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akbar/.android/build-cache/ababd6b70d4e6a8d2edf85f71cbba4b1faca0e40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/pre-dexed/release/classes_62d5d5046ecf54b9624522fdc9f506862f42887f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13a966a00eaf7891cb13ebebc72d02ff933fe9ff">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ceac1a6aa5b6ce17dfbd08e810a999c5a8d19e96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/ababd6b70d4e6a8d2edf85f71cbba4b1faca0e40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62d5d5046ecf54b9624522fdc9f506862f42887f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4ef9a0193e054d2959f6131b8b1b599c6a53235e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/07029305cdf29197bbbd58e7583b74e94ae31651/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba93f82cbeb1d1f92b4b5dca3a8079fd1f715a16/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akbar/.android/build-cache/ff15fbae61a6427c05df4c3bd487fd57f7499f81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/pre-dexed/release/classes_a7d2906237d736d604c902350109363f904a9472.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/ff15fbae61a6427c05df4c3bd487fd57f7499f81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7d2906237d736d604c902350109363f904a9472/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akbar/.android/build-cache/89415fcea348b10429f548da2f3920707ce67a63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/pre-dexed/release/classes_1980f7cd3312450f750aee32da036af7ed7111c4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/89415fcea348b10429f548da2f3920707ce67a63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1980f7cd3312450f750aee32da036af7ed7111c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akbar/.android/build-cache/88de5483fc5c241190eac1f83c445227746d91fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/pre-dexed/release/classes_12a99f263a0c771c6bfcdf133fd53e0752c006ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/b2fd3d19876c223e56b1b0f63b80ce33edf348e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_806a00e44a35f9449026bf24e6d9707d2de96399/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akbar/.android/build-cache/b2fd3d19876c223e56b1b0f63b80ce33edf348e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/pre-dexed/release/classes_806a00e44a35f9449026bf24e6d9707d2de96399.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/88de5483fc5c241190eac1f83c445227746d91fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12a99f263a0c771c6bfcdf133fd53e0752c006ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/9cf0c0b7afdbb3cdbe9a73236cc53967b229dfb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88e3bb0d3ae488faefb8a0421de1e55d93d03879/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/56b7e39d0e8ad88aad1611edf2fd14b339b7883c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b413fd6af25a0c2b3b9603dd1b061c39e4fa543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/8be42760ef623f304604a8ccdfe72596e9e8e1b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f80b73f8c3e3a2b5c87507177025a5777ad1e6f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/3172e9bbd7d10c6637a1b5fdbdc27baa1b8ba0b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18056e659fbaace37af35cd9473ca435e1f31872/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akbar/.android/build-cache/8be42760ef623f304604a8ccdfe72596e9e8e1b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/pre-dexed/release/classes_f80b73f8c3e3a2b5c87507177025a5777ad1e6f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akbar/.android/build-cache/9cf0c0b7afdbb3cdbe9a73236cc53967b229dfb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/pre-dexed/release/classes_88e3bb0d3ae488faefb8a0421de1e55d93d03879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akbar/.android/build-cache/56b7e39d0e8ad88aad1611edf2fd14b339b7883c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/pre-dexed/release/classes_1b413fd6af25a0c2b3b9603dd1b061c39e4fa543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akbar/.android/build-cache/3172e9bbd7d10c6637a1b5fdbdc27baa1b8ba0b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/home/akbar/AndroidStudioProjects/KjpProject (copy)/app/build/intermediates/pre-dexed/release/classes_18056e659fbaace37af35cd9473ca435e1f31872.jar" />
+    </item>
+
+</items>
